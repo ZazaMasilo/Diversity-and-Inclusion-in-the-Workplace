@@ -28,11 +28,32 @@ To create a visually appealing, easy-to-navigate webpage that effectively commun
 
 ## Wireframes
 
+
 ## Colour Scheme
 
 ## Typography
 
 ## Imagery
+
+# page Features
+## Navbar
+## Hero Image
+## Tagline
+## Footer
+
+# Tablet & Mobile view
+## Desktop, Tablet & Mobile Differences
+### Tablet View
+### Mobile View
+# Technologies Used
+## Languages Used
+## Frameworks, Libraries, Technologies & Programs Used
+# Deployment
+## How to deploy
+# Testing
+# Credits
+
+
 
 
 

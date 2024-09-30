@@ -28,7 +28,7 @@ To create a visually appealing, easy-to-navigate webpage that effectively commun
 
 ## Wireframes
 ![desktop](https://github.com/ZazaMasilo/Diversity-and-Inclusion-in-the-Workplace/blob/main/Desktop.png?raw=true)
-
+![mobile](https://github.com/ZazaMasilo/Diversity-and-Inclusion-in-the-Workplace/blob/main/Mobile.png?raw=true)
 ## Colour Scheme
 
 ## Typography

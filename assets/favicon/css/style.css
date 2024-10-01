@@ -1,3 +1,6 @@
 header {
-    background-color:lightblue ;
+    background-color :#ffffff;
+    padding:0 1rem;
+    position: fixed;
+    z-index: 99;
 }

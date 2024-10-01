@@ -5,7 +5,7 @@ image
 link
 
 # Contents
-[Go to User Experience](#user-experience)
+[User Experience](#user-experience)
 
 
 

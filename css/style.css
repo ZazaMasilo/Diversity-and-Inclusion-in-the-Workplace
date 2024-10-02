@@ -1,3 +1,9 @@
 body {
-    background-color: blue;
+    font-family: 'Roboto' , sans-serif;
+    background: url("../images/people.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
 }
